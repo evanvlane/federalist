@@ -1,5 +1,5 @@
 import os
-from setuptools import setup
+from setuptools import setup, find_packages
 
 
 def read(fname):
@@ -14,7 +14,7 @@ setup(
     license="GPL",
     keywords="gutenberg reader public domain",
     url="https://github.com/evanvlane/federalist",
-    packages=['federalist', 'tests'],
+    packages=find_packages(),
     long_description=read('README.md'),
     classifiers=[
         "Development Status :: 2 - Pre-Alpha",
