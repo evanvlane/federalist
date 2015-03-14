@@ -8,7 +8,7 @@ new = 2
 
 
 print """
-============================================================================
+===========================================================================
 Welcome to the Federalist Papers Reader.
 From here you can generate a currated selection of whichever papers interest you.
 The default list is the 2008 reading list for St. John's College, Santa Fe.
