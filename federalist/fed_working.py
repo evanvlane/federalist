@@ -10,6 +10,9 @@ currated_html = 'federalist_currated.html'
 
 # TODO Implement basic structure
 
+class GutBook(object):
+
+
 if not os.path.isfile('%s' % os.path.abspath(raw_html)):
 
         print("Please wait a moment while the program retrieves the full text from Project Gutenberg:")
