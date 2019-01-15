@@ -1,7 +1,7 @@
-#federalist
+# federalist
 *an open-source digital curator of the Federalist Papers*
 
-###Current status
+### Current status
 
 *federalist* is in the middle of a rebase to get the code cleaned up and into
 an open-source friendly format. Current working branch is: */feature/initial_rebase*
@@ -10,7 +10,7 @@ After the initial rebase, this repo will follow the [git
 flow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 workflow.
 
-##Description
+## Description
 
 *federalist* started as a quick Fourth of July project, made in my spare time.
 As of this update, it is still that hacky code base. It allows a user to
